@@ -1,0 +1,10 @@
+{
+  "name": "atomic-swap-dex-aggregator",
+  "version": "1.0.0",
+  "description": "Multi-DEX Aggregator for Optimal Trade Routing",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.0"
+  }
+}
